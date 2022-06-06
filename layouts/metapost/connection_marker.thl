@@ -11,17 +11,17 @@ layout connection_marker
  		  		COLORCODE := scantokens(ATTR_code);
 
 				if COLORCODE=1:
-					RGB:=(25/255,51/255,102/255);
+					RGB:=(25/255,51/255,102/255); %dark blue
 				elseif COLORCODE=2:
-			    	RGB:=(153/255,20/255,39/255);
+			    	RGB:=(153/255,20/255,39/255); %red brown
 				elseif COLORCODE=3:
-			    	RGB:=(51/255,153/255,37/255);
+			    	RGB:=(51/255,153/255,37/255); %green
 			    elseif COLORCODE=4:
-			    	RGB:=(115/255,37/255,160/255);
+			    	RGB:=(115/255,37/255,160/255); %purple
 			    elseif COLORCODE=5:
-					RGB:=(195/255,117/255,18/255);
+					RGB:=(195/255,117/255,18/255); %orange brown
 					else:
-						RGB:=(35/255,35/255,35/255);
+						RGB:=(35/255,35/255,35/255); %black
 					fi;
 				fi;
 
@@ -47,50 +47,50 @@ layout connection_marker
  			if known ATTR_code:
  		  		COLORCODE := scantokens(ATTR_code);
 				if COLORCODE=0:
-					RGB:=(240/255,2/255,127/255);
+					RGB:=(240/255,2/255,127/255); %pink
 				elseif COLORCODE=1:
-					RGB:=(140/255,154/255,212/255);
+					RGB:=(140/255,154/255,212/255); %grey blue
 				elseif COLORCODE=2:
-			    	RGB:=(253/255,192/255,134/255);
+			    	RGB:=(253/255,192/255,134/255); %peach
 				elseif COLORCODE=3:
-			    	RGB:=(56/255,108/255,176/255);
+			    	RGB:=(56/255,108/255,176/255); %blue
 			    elseif COLORCODE=4:
-			    	RGB:=(191/255,91/255,23/255);
+			    	RGB:=(191/255,91/255,23/255); %brown
 			    elseif COLORCODE=5:
-					RGB:=(126/255,201/255,126/255);
+					RGB:=(126/255,201/255,126/255); %green
  				elseif COLORCODE=6:
-					RGB:=(141/255,211/255,199/255);
+					RGB:=(141/255,211/255,199/255); %turquoise
 				elseif COLORCODE=7:
-					RGB:=(255/255,255/255,179/255);
+					RGB:=(255/255,255/255,179/255); %yellow
 				elseif COLORCODE=8:
-			    	RGB:=(190/255,186/255,218/255);
+			    	RGB:=(190/255,186/255,218/255); %grey mauve
 				elseif COLORCODE=9:
-			    	RGB:=(251/255,128/255,114/255);
+			    	RGB:=(251/255,128/255,114/255); %dark peach
 			    elseif COLORCODE=10:
-			    	RGB:=(128/255,177/255,211/255);
+			    	RGB:=(128/255,177/255,211/255); %blue green
 			    elseif COLORCODE=11:
-					RGB:=(253/255,180/255,98/255);
+					RGB:=(253/255,180/255,98/255); %light orange
 					elseif COLORCODE=12:
-			    	RGB:=(202/255,178/255,214/255);
+			    	RGB:=(202/255,178/255,214/255); %mauve
 			    elseif COLORCODE=13:
-					RGB:=(255/255,127/255,0/255);
+					RGB:=(255/255,127/255,0/255); %orange
 				elseif COLORCODE=14:
-			    	RGB:=(179/255,222,105);
+			    	RGB:=(179/255,222,105); %eggshell blue
 			    elseif COLORCODE=15:
-					RGB:=(252/255,205/255,229/255);
+					RGB:=(252/255,205/255,229/255); %pinky mauve
 					elseif COLORCODE=16:
-			    	RGB:=(217/255,217/255,217/255);
+			    	RGB:=(217/255,217/255,217/255); %grey
 			    elseif COLORCODE=17:
-					RGB:=( 188/255,128/255,189/255);
+					RGB:=( 188/255,128/255,189/255); %purple
 
 				else:
-					RGB:=(51/255,51/255,51/255);
+					RGB:=(51/255,51/255,51/255); %very dark gray
 				fi;
 			else:
 				if known ATTR_rgb:
-					RGB:= scantokens(ATTR_rgb);
+					RGB:= scantokens(ATTR_rgb); %user RGB entry
 				else:
-				RGB:=(51/255,51/255,51/255);
+				RGB:=(51/255,51/255,51/255); %very dark gray
 				fi;
 			fi;
 

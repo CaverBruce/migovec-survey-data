@@ -1,3 +1,4 @@
+encoding  utf-8
 source 
 	
 	survey connection_colors
@@ -39,13 +40,20 @@ source
 		point 32 -30 label -align tr -text "no code, no rgb"
 		point 42 -30 label -align tr -text "attr rgb (0,1,0)"
 
-		point 0 0 u:connectionmarker -attr code 0
-		point 10 0 u:connectionmarker -attr code 1
-		point 20 0 u:connectionmarker -attr code 2
-		point 30 0 u:connectionmarker -attr code 3
+		point 0 0 u:connectionmarker -attr code 0 -attr text "connection text 0 tr 0.1" -align tr -attr offset 0.1
+		point 0 -5 u:flag -attr text "flag text 0 c" -attr code 0 -align c
+		point 10 0 u:connectionmarker -attr code 1 -attr text "connection text 1 tr 0.2" -align tr -attr offset 0.2
+		point 10 -5 u:flag -attr text "flag text 1 r" -attr code 1 -align r	
+		point 20 0 u:connectionmarker -attr code 2 -attr text "connection text 2 tr 0.2"  -align tr -attr offset 0.2
+		point 20 -5 u:flag -attr text "flag text 2 tr" -attr code 2 -align tr	
+		point 30 0 u:connectionmarker -attr code 3 -attr text "connection text 3 r 0.2"  -align r -attr offset 0.2
+		point 30 -5 u:flag -attr text "flag text 3 l" -attr code 3 -align l			
 		point 40 0 u:connectionmarker -attr code 4
+		point 40 -5 u:flag -attr text "flag text 4 r" -attr code 4 -align r
 		point 0 -10 u:connectionmarker -attr code 5
+		point 0 -15 u:flag -attr text "flag text 5 r" -attr code 5 -align r		
 		point 10 -10 u:connectionmarker -attr code 6
+		point 10 -15 u:flag -attr text "flag text 6 r" -attr code 6 -align r -orientation 0	
 		point 20 -10 u:connectionmarker -attr code 7
 		point 30 -10 u:connectionmarker -attr code 8
 		point 40 -10 u:connectionmarker -attr code 9
@@ -72,6 +80,7 @@ endsource
 input ../../layouts/metapost/connection_marker.thl
 
 layout local
+	# rotate 70
 	copy connection_marker
 	scale 1 500
 	map-header 0 0 off
