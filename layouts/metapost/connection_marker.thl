@@ -20,7 +20,9 @@ layout connection_marker
 			    	RGB:=(115/255,37/255,160/255); %purple
 			    elseif COLORCODE=5:
 					RGB:=(195/255,117/255,18/255); %orange
-					else:
+				elseif COLORCODE=6:
+					RGB:=(199/255,56/255,96/255); %crimson
+				else:
 						RGB:=(35/255,35/255,35/255); %black
 					fi;
 				fi;
@@ -41,7 +43,7 @@ layout connection_marker
 		 enddef;
 
 
-		def p_u_connectionmarker (expr P,R,S,A)=
+		def p_u_connection_marker (expr P,R,S,A)=
 			save RGB;
  !		    color RGB;
  			if known ATTR_code:

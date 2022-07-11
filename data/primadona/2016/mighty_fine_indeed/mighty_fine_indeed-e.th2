@@ -2,12 +2,12 @@ encoding  utf-8
 ##XTHERION## xth_me_area_adjust 0 0 1656.000000 890.000000
 ##XTHERION## xth_me_area_zoom_to 100
 
-scrap mighty_fine_indeed-e1 -projection extended -scale [1077.0 264.0 1274.0 506.0 0 0 8.30 0 m]
+scrap mighty_fine_indeed-1e -projection extended -scale [1077.0 264.0 1274.0 506.0 0 0 8.30 0 m]
 	
 	
 	point 1225.0154 -446.6923 label -align bl -attr level 2 -scale l -text "Mighty Fine Indeed"
 	
-	point 1225.0154 -346.6923 u:connectionmarker -align tl -attr code 2 -id mightyfine -attr text "to More like Welding"
+	point 1225.0154 -346.6923 u:connection_marker -align tl -attr code 2 -id mightyfine -attr text "to More like Welding"
 	line rock-border -close on
 		1542.0822 -379.7737
 		1523.8762 -510.6498

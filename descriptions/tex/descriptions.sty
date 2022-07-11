@@ -1,39 +1,39 @@
 
 \def\FullWidth{210mm}
-\def\TwoColumnWidth{135mm}
-\def\TextWidth{179mm}
+\def\TwoColumnWidth{190mm}
+\def\TextWidth{190mm}
 
 %\requirepackage{ifthen}
 
 
-\newcommand{\TopFullWidthFigure}[6]{% True case
-\begin{figure}[ht]
-  \vspace{-0.6in}
-  \hspace{-25.5mm}
+\newcommand{\TopFullWidthFigure}[6]{%
+\begin{figure}[!ht]
+  \vspace{-30mm}
+  \hspace{-20.5mm}
+  \includegraphics[width=\FullWidth]{#1}
+\end{figure}
+%\fullwidthcaption{#2}{#3}{#4}{#5}{0em}{#6}
+}
+
+\newcommand{\FullWidthFigure}[6]{%
+\begin{figure}[!htbp]
+  \hspace{-10.5mm}
   \includegraphics[width=\FullWidth]{#1}
 \end{figure}
 \fullwidthcaption{#2}{#3}{#4}{#5}{0em}{#6}
 }
 
-\newcommand{\FullWidthFigure}[5]{
-
-\begin{figure}
- \hspace{-25.5mm} \includegraphics[width=\FullWidth]{#1}
-\end{figure}
-\fi
-\fullwidthcaption{#2}{#3}{#4}{#5}{0em}
-}
-
 \newcommand{\BottomFullWidthFigure}[6]{
 \fullwidthcaption{#2}{#3}{#4}{#5}{0em}{#6}
 \begin{figure}[!b]
- \hspace{-25.5mm} \includegraphics[width=\FullWidth]{#1}
+ \hspace{-10.5mm} \includegraphics[width=\FullWidth]{#1}
 \end{figure}
 }
 
 \newcommand{\CenteredFigure}[1]{
 \begin{figure}[!htbp]
- \hspace{-10mm} \includegraphics[width=\TextWidth]{#1}
+  \hspace{-10.5mm}
+  \includegraphics[width=\TextWidth]{#1}
 \end{figure}
 }
 
