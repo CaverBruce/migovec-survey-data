@@ -1,0 +1,786 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust 0 0 1185.200000 1379.200000
+##XTHERION## xth_me_area_zoom_to 100
+
+
+scrap neu_alliance-1s -projection extended -scale [0 0 39.3701 0 0 0 1 0 m]
+
+point 888.6784 1183.5914 label -align t -attr level 3 -scale xs -text "Neu Alliance"
+point 162.43 967.5064 water-flow -orientation 154.26382
+point 262.6686 703.1174 water-flow -orientation 154.26382
+line wall 
+  405.5782 272.2576
+  413.4082 274.4776 412.65 276.36 420.23 278.5
+  423.39 279.39 432.82 274.59 435.9 276.4
+endline
+
+line wall 
+  435.9 276.4
+  456.62 288.35 482.46 292.18 505.49 299.54
+  526.89 306.38 545.55 320.8 565.12 330.74
+  583.17 339.91 608.75 336.22 625.18 349.6
+  626.73 350.87 627.97 352.48 629.19 354.07
+  635.55 362.39 644.2 369.08 651.51 376.51
+  653.0 378.02 654.58 379.45 655.94 381.07
+  662.21 388.54 664.97 399.85 673.23 405.11
+  679.68 409.21 686.92 413.6 694.73 414.68
+  701.6 415.33 711.61 417.75 717.1 411.97
+  721.29 407.56 722.36 395.94 724.75 390.18
+  726.21 386.68 727.6 383.11 728.75 379.65
+  730.61 374.06 731.61 368.06 733.34 362.51
+  735.02 357.11 737.14 351.53 739.02 346.12
+  742.26 336.82 750.38 329.57 757.17 322.5
+endline
+
+line wall 
+  751.18 325.42
+  754.52 321.02 757.47 315.82 759.68 310.37
+  766.89 292.52 773.79 272.37 778.19 253.64
+  783.37 231.63 789.63 206.36 805.95 189.05
+  807.71 187.18 809.81 185.43 812.25 184.59
+  814.46 183.83 816.93 184.5 819.28 184.48
+  821.57 184.47 823.93 183.92 826.16 184.48
+  828.58 185.1 830.64 186.7 832.82 187.93
+  852.43 199.03 865.6 219.53 880.6 235.71
+  894.41 244.29 893.6 247.12 893.97 249.41
+  896.25 249.73 898.63 251.13 900.81 250.39
+  909.01 247.6 909.92 235.94 915.31 230.98
+  924.7 222.36 943.77 217.95 955.92 218.41
+endline
+
+line wall 
+  955.16 220.55
+  978.55 218.63 1003.41 201.06 1013.97 179.78
+  1020.49 166.66 1019.01 147.57 1030.52 136.96
+  1037.55 130.47 1049.06 131.93 1057.82 131.93
+  1081.39 131.93 1083.28 177.56 1083.28 194.99
+  1083.28 197.91 1083.28 200.83 1083.28 203.75
+  1083.28 227.45 1092.12 254.74 1085.16 278.22
+  1084.47 280.55 1083.55 282.83 1082.48 285.01
+  1081.24 287.5 1079.45 289.69 1078.25 292.2
+  1070.33 308.81 1049.19 316.57 1038.8 331.94
+  1033.93 339.15 1031.09 350.91 1023.15 355.51
+  1013.99 360.83 998.94 362.73 988.68 364.44
+  974.37 366.82 959.48 367.99 945.11 368.88
+  939.89 369.21 928.27 371.77 923.13 368.88
+  906.32 359.43 918.65 328.65 906.68 318.48
+  896.32 309.68 876.83 315.55 864.97 317.97
+endline
+
+line wall 
+  863.59 320.41
+  849.02 371.55 849.02 374.29 849.02 376.94
+endline
+
+line wall 
+  849.02 376.94
+  849.02 415.62 847.64 455.44 845.17 493.96
+  844.4 506.07 847.39 518.45 845.1 530.36
+  842.46 544.11 835.33 556.68 832.06 570.29
+  826.27 594.34 825.44 620.0 822.9 644.43
+  821.07 662.11 816.91 679.96 814.46 697.42
+  811.78 716.56 814.48 736.71 813.76 755.94
+  811.5 816.43 812.46 878.88 812.46 939.49
+  812.46 983.23 814.99 1028.93 807.49 1072.17
+  806.66 1076.93 805.77 1081.69 804.65 1086.39
+  803.43 1091.51 803.76 1097.52 800.46 1101.62
+  797.22 1105.65 791.75 1107.76 786.68 1108.71
+  781.21 1109.74 775.58 1107.91 770.05 1107.32
+  753.47 1105.54 730.8 1103.43 718.44 1089.77
+  694.22 1062.98 688.05 1022.9 683.46 988.8
+  680.99 970.54 677.96 951.58 677.96 933.01
+  677.96 928.25 678.14 923.49 677.96 918.74
+  677.17 897.13 674.05 874.93 674.05 853.25
+  674.05 847.15 674.05 841.06 674.05 834.97
+  674.05 829.82 673.81 824.68 674.05 819.54
+  674.37 812.7 675.47 805.91 675.72 799.07
+  675.91 793.79 675.09 788.5 675.35 783.23
+  675.69 776.44 676.72 769.71 677.5 762.97
+  678.02 758.52 678.6 754.09 679.27 749.66
+  680.05 744.52 680.88 739.39 681.88 734.29
+  682.79 729.65 684.05 725.09 684.98 720.46
+  687.06 710.09 686.04 698.52 687.11 687.02
+  687.65 681.1 689.8 675.42 691.03 669.6
+  692.1 664.58 692.9 659.5 694.02 654.5
+  699.32 630.88 706.87 606.41 706.69 582.12
+  706.66 577.55 706.69 572.99 706.69 568.42
+  689.64 561.21 669.52 562.5 651.2 562.5
+  620.83 562.5 588.47 563.31 559.46 572.95
+  553.48 574.94 547.52 577.32 542.22 580.74
+  528.52 589.58 515.32 602.04 501.71 611.48
+  497.84 614.17 493.96 616.88 489.94 619.34
+  486.09 621.69 481.99 623.6 478.11 625.91
+  462.4 635.27 441.03 644.64 427.64 657.32
+  422.91 661.8 419.71 667.67 415.33 672.48
+  410.93 677.32 405.69 681.36 401.33 686.23
+  398.36 689.55 395.83 693.25 393.41 696.99
+  387.85 705.61 385.9 715.82 382.89 724.48
+  377.33 740.49 366.2 754.85 360.01 770.92
+  347.31 803.94 339.56 839.8 331.29 874.16
+  329.98 879.58 324.48 894.32 321.74 899.27
+  307.14 925.57 292.4 953.74 284.94 983.24
+  283.82 987.69 284.23 992.39 283.63 996.94
+  280.84 1017.89 275.22 1039.0 273.18 1059.85
+  272.73 1064.48 272.65 1069.16 271.78 1073.73
+  270.8 1078.84 268.99 1083.76 267.63 1088.78
+  264.89 1098.94 262.09 1108.9 259.21 1118.0
+endline
+
+line wall 
+  259.21 1118.0
+  257.98 1120.73 255.28 1132.49 251.94 1137.3
+  243.47 1149.5 238.58 1163.99 230.87 1175.82
+  220.27 1192.08 204.44 1205.32 193.55 1221.55
+  181.91 1238.9 174.58 1259.54 167.95 1279.16
+endline
+
+line wall 
+  267.79 264.66
+  269.78 265.43 272.01 265.35 274.06 265.92
+  283.44 268.57 290.94 275.95 298.56 281.41
+  300.45 282.76 302.78 283.42 304.63 284.83
+  306.67 286.38 308.53 288.2 310.15 290.19
+  311.83 292.25 313.26 294.52 314.44 296.9
+  318.56 305.2 319.41 315.26 319.42 324.52
+  319.44 338.44 311.98 351.73 307.31 364.65
+  303.16 376.14 298.68 387.92 295.05 399.58
+  291.6 410.67 281.56 426.27 277.24 436.66
+  276.38 438.74 277.67 434.45 277.24 436.66
+  276.82 438.81 276.55 441.0 275.98 443.11
+  270.17 464.72 271.82 494.74 265.33 516.06
+endline
+
+line wall 
+  265.33 516.06
+  265.33 519.95 265.33 523.85 265.33 527.74
+  265.33 560.49 252.55 592.69 244.48 623.77
+  242.59 631.07 241.77 639.17 238.34 646.15
+  227.21 668.86 207.61 687.44 196.43 709.81
+  194.77 713.15 194.7 717.09 193.38 720.58
+  181.91 751.01 174.37 784.04 161.63 814.16
+  156.46 826.39 148.53 835.7 144.67 844.67
+  139.56 856.56 135.65 873.96 132.27 886.88
+  123.18 921.56 116.81 958.04 111.11 993.42
+  110.47 997.34 110.53 1001.37 109.79 1005.27
+  106.69 1021.59 100.47 1038.08 100.05 1054.76
+endline
+
+point 419.4362 348.9086 water-flow -orientation 219.78
+line u:splay -visibility off
+  141.03 194.68
+  185.75 195.65
+endline
+
+line u:splay -visibility off
+  141.03 194.68
+  171.81 197.04
+endline
+
+line u:splay -visibility off
+  141.03 194.68
+  217.3 199.3
+endline
+
+line u:splay -visibility off
+  141.03 194.68
+  242.45 204.91
+endline
+
+line u:splay -visibility off
+  141.03 194.68
+  351.33 242.39
+endline
+
+line u:splay -visibility off
+  141.03 194.68
+  173.48 204.84
+endline
+
+line u:splay -visibility off
+  141.03 194.68
+  183.37 206.52
+endline
+
+line u:splay -visibility off
+  141.03 194.68
+  196.15 154.31
+endline
+
+line u:splay -visibility off
+  141.03 194.68
+  162.23 181.82
+endline
+
+line u:splay -visibility off
+  141.03 194.68
+  188.12 105.71
+endline
+
+line u:splay -visibility off
+  141.03 194.68
+  200.89 111.37
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  228.19 183.32
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  228.19 172.35
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  228.19 176.72
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  228.19 112.33
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  228.19 112.71
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  228.19 104.54
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  228.19 100.66
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  235.61 135.42
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  219.06 203.31
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  255.09 206.27
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  277.16 217.87
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  275.24 169.42
+endline
+
+line u:splay -visibility off
+  228.19 203.75
+  296.62 209.36
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  233.41 229.49
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  145.25 169.98
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  190.06 190.73
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  285.15 198.72
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  6.63 138.15
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  285.15 174.49
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  285.15 228.21
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  293.73 265.21
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  345.96 293.68
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  310.69 283.85
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  334.07 269.06
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  460.74 309.23
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  480.58 323.37
+endline
+
+line u:splay -visibility off
+  285.15 247.12
+  324.3 256.67
+endline
+
+line u:splay -visibility off
+  375.72 270.85
+  359.45 286.23
+endline
+
+line u:splay -visibility off
+  375.72 270.85
+  378.68 297.7
+endline
+
+line u:splay -visibility off
+  375.72 270.85
+  434.99 311.47
+endline
+
+line u:splay -visibility off
+  375.72 270.85
+  470.35 304.55
+endline
+
+line u:splay -visibility off
+  375.72 270.85
+  490.11 316.09
+endline
+
+line u:splay -visibility off
+  375.72 270.85
+  519.15 347.12
+endline
+
+line u:splay -visibility off
+  375.72 270.85
+  387.36 297.49
+endline
+
+line u:splay -visibility off
+  375.72 270.85
+  417.66 397.53
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  304.77 396.93
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  350.75 307.61
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  389.75 308.61
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  136.13 922.12
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  162.66 1227.69
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  347.77 710.73
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  539.53 573.14
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  633.77 571.46
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  438.1 310.76
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  488.82 319.19
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  430.49 344.94
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  416.84 323.76
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  354.18 304.45
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  385.94 304.88
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  381.79 296.9
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  507.91 308.77
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  569.92 337.77
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  671.11 416.52
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  430.49 419.91
+endline
+
+line u:splay -visibility off
+  430.49 284.62
+  154.32 179.2
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  700.83 437.24
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  786.58 433.82
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  765.98 441.51
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  764.59 1098.91
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  834.4 342.08
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  702.25 435.06
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  749.34 341.44
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  842.2 363.94
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  749.82 422.89
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  826.87 326.11
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  702.25 433.83
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  702.25 440.22
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  702.25 406.84
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  702.25 336.5
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  702.25 330.58
+endline
+
+line u:splay -visibility off
+  702.25 438.48
+  702.25 382.95
+endline
+
+line u:splay -visibility off
+  837.5 288.42
+  673.95 887.75
+endline
+
+line u:splay -visibility off
+  837.5 288.42
+  788.56 695.76
+endline
+
+line u:splay -visibility off
+  837.5 288.42
+  695.28 391.67
+endline
+
+line u:splay -visibility off
+  837.5 288.42
+  758.09 348.45
+endline
+
+line u:splay -visibility off
+  837.5 288.42
+  853.99 323.9
+endline
+
+line u:splay -visibility off
+  837.5 288.42
+  843.16 290.44
+endline
+
+line u:splay -visibility off
+  837.5 288.42
+  797.41 202.67
+endline
+
+line u:splay -visibility off
+  837.5 288.42
+  837.18 214.58
+endline
+
+line u:splay -visibility off
+  837.5 288.42
+  853.54 229.67
+endline
+
+line u:splay -visibility off
+  837.5 288.42
+  873.88 281.86
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  937.1 270.4
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  927.87 279.55
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  914.81 368.16
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  964.62 284.79
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  937.65 264.96
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  965.85 268.78
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  943.52 269.86
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  937.65 214.82
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  893.73 258.82
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  872.99 265.36
+endline
+
+line u:splay -visibility off
+  937.65 267.08
+  777.71 255.17
+endline
+
+line u:splay -visibility off
+  1020.04 261.17
+  1044.51 267.45
+endline
+
+line u:splay -visibility off
+  1020.04 261.17
+  1038.65 267.75
+endline
+
+line u:splay -visibility off
+  1020.04 261.17
+  1031.95 266.25
+endline
+
+line u:splay -visibility off
+  1020.04 261.17
+  1020.04 263.96
+endline
+
+line u:splay -visibility off
+  1020.04 261.17
+  1020.04 266.54
+endline
+
+line u:splay -visibility off
+  1020.04 261.17
+  1024.22 262.73
+endline
+
+line u:splay -visibility off
+  1020.04 261.17
+  1009.99 358.21
+endline
+
+line u:splay -visibility off
+  1020.04 261.17
+  1020.04 291.36
+endline
+
+line u:splay -visibility off
+  1040.13 134.47
+  1040.13 320.74
+endline
+
+line u:splay -visibility off
+  1040.13 134.47
+  1040.13 149.6
+endline
+
+line u:splay -visibility off
+  1040.13 134.47
+  1040.13 142.57
+endline
+
+line u:splay -visibility off
+  1040.13 134.47
+  1040.13 144.88
+endline
+
+line u:splay -visibility off
+  1040.13 134.47
+  1040.13 152.54
+endline
+
+line u:splay -visibility off
+  1040.13 134.47
+  1040.13 142.19
+endline
+
+line u:splay -visibility off
+  1040.13 134.47
+  1040.13 138.39
+endline
+
+line u:splay -visibility off
+  1040.13 134.47
+  1040.13 139.84
+endline
+
+line u:splay -visibility off
+  1040.13 134.47
+  1040.13 145.27
+endline
+
+line u:splay -visibility off
+  1040.13 134.47
+  1040.13 153.93
+endline
+
+point 702.25 438.48 station -name 5
+point 430.49 284.62 station -name 4
+point 837.5 288.42 station -name 6
+point 937.65 267.08 station -name 7
+point 1020.04 261.17 station -name 8
+point 1040.13 253.21 station -name 9
+point 1040.13 134.47 station -name 10
+point 375.72 270.85 station -name 3
+point 285.15 247.12 station -name 2
+point 228.19 203.75 station -name 1
+point 141.03 194.68 station -name 0
+endscrap
+

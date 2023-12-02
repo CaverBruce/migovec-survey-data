@@ -1,0 +1,817 @@
+survey gps -title "GPS"
+
+    survey royston_vasey -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K6 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey K2 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K10 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K11 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K9 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey K27 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K14 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K29 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K12 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K13 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K19 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K15 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K20 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K16 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey K1 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey amphitheatre -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey old_path_start -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey whale_bone_view -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey abseil_watch_point -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey B20 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey B_3_or_8 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey B_6_or_8 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey B5 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey moth -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey hare -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey bivi -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP3 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP2 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey samo_2 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP4 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP5 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP6 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey samo_1 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP9 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP1 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey B12 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey M22 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey TR1 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP7 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP8 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey C1 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey TR2 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey TR3 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey TR4 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey TR5 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey TR6 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey TR7 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey TR8 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey TR9 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey dexter_the_tree -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey pueblo_old_bivi -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey M12_maybe -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey andy_secret_dig -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey A1 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey A3 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey M4 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey A4 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey A2 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey M24 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey M7 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey M9 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey M8 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey E8 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey S12 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey E1 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey S_A -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+    
+    survey E2 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey Gelateria -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP10 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP11 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP12 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP13 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP14 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP15 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP16 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey TR10 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey D1 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey C2 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey C3 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey valley_viewpoint -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey JCC -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey PLAT1 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey PLAT2 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey PLAT3 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey B91 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey B93 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey B10 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey N1 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey PLAT4 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey PLAT5 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey ABSEIL_START -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP17 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP18 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP19 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP20 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP21 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP22 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP23 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP24 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP25 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP26 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP27 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey sunset_spot -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey lp_xmas_tree -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP28 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP29 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP30 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP31 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP32 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP33 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP34 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP35 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP36 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+    survey LP37 -entrance 0
+    centreline
+    0 1 0 0 0
+    endcentreline
+    endsurvey
+
+	centreline
+	cs lat-long
+
+    # caves
+    fix 0@royston_vasey 46.251917 13.762017 1868.95
+    fix 0@K6 46.257571 13.763275 1873.25
+    fix 0@K2 46.259745 13.766238 1905.55
+    fix 0@K10 46.258929 13.767571 1904.91
+    fix 0@K11 46.258359 13.768771 1891.56
+    fix 0@K9 46.257900 13.768801 1881.89
+    fix 0@K27 46.257581 13.768777 1875.70
+    fix 0@K14 46.257631 13.768978 1877.30
+    fix 0@K29 46.257916 13.770451 1852.83
+    fix 0@K12 46.258000 13.770595 1857.31
+    fix 0@K13 46.258032 13.770862 1866.33
+    fix 0@K19 46.257598 13.771133 1852.98
+    fix 0@K15 46.256513 13.770512 1825.36
+    fix 0@K20 46.256830 13.771369 1837.49
+    fix 0@K16 46.257274 13.774277 1894.57
+    fix 0@K1 46.258090 13.759367 1933.26
+    fix 0@B20 46.252575 13.764237 1865.95
+    fix 0@B_3_or_8 46.251354 13.759572 1862.24
+    fix 0@B_6_or_8 46.251761 13.759628 1861.31
+    fix 0@B5 46.251177 13.759995 1856.88
+    fix 0@moth 46.251002 13.760529 1842.01
+    fix 0@hare 46.251633 13.760186 1842.15
+    fix 0@LP3 46.247667 13.764189 1763.11
+    fix 0@LP2 46.247594 13.764173 1759.87
+    fix 0@samo_2 46.247053 13.764647 1761.24
+    fix 0@LP4 46.247312 13.764519 1753.73
+    fix 0@LP5 46.247365 13.764634 1754.93
+    fix 0@LP6 46.247319 13.764775 1753.60
+    fix 0@samo_1 46.247950 13.764588 1764.32
+    fix 0@LP9 46.248213 13.763555 1767.93
+    fix 0@LP1 46.247695 13.763857 1763.84
+    fix 0@B12 46.255389 13.759467 1874.28
+    fix 0@M22 46.256993 13.758428 1919.84
+    fix 0@TR1 46.247299 13.764905 1862.00
+    fix 0@LP7 46.248114 13.764605 1769.78
+    fix 0@LP8 46.248200 13.764206 1752.90
+    fix 0@C1 46.251271 13.763338 1855.14
+    fix 0@TR2 46.246922 13.764965 1875.42
+    fix 0@TR3 46.247552 13.764951 1859.18
+    fix 0@TR4 46.247649 13.764845 1859.18
+    fix 0@TR5 46.247532 13.764770 1859.18
+    fix 0@TR6 46.247670 13.765065 1859.18
+    fix 0@TR7 46.247325 13.765605 1859.18
+    fix 0@TR8 46.247120 13.765830 1859.18
+    fix 0@TR9 46.246913 13.766340 1859.18
+    fix 0@M12_maybe 46.249576 13.766405 1775.77
+    fix 0@andy_secret_dig 46.250590 13.765604 1803.09
+    fix 0@A1 46.252477 13.763169 1860.26
+    fix 0@A3 46.252587 13.762902 1865.90
+    fix 0@M4 46.252766 13.762960 1862.99
+    fix 0@A4 46.252822 13.763165 1859.58
+    fix 0@A2 46.252594 13.763379 1859.24
+    fix 0@M24 46.246824 13.766633 1713.19
+    fix 0@M7 46.247072 13.767400 1746.11
+    fix 0@M9 46.247152 13.767548 1737.41
+    fix 0@M8 46.247265 13.767446 1749.84
+    fix 0@E8 46.251327 13.765417 1806.99
+    fix 0@S12 46.251481 13.765823 1774.93
+    fix 0@E1 46.252146 13.765597 1800.00
+    fix 0@S_A 46.251648 13.765201 1814.53
+    fix 0@E2 46.252447 13.765172 1813.20
+    fix 0@Gelateria 46.250556 13.760689 1843.20
+    fix 0@LP10 46.248366 13.763687 1778.03
+    fix 0@LP11 46.247970 13.764198 1764.24
+    fix 0@LP12 46.247878 13.764271 1763.25
+    fix 0@LP13 46.247773 13.764361 1760.58
+    fix 0@LP14 46.247899 13.764503 1762.44
+    fix 0@LP15 46.248094 13.764649 1769.92
+    fix 0@LP16 46.248581 13.763993 1779.14
+    fix 0@TR10 46.247858 13.763896 1762.00
+    fix 0@D1 46.250270 13.763595 1844.80
+    fix 0@C2 46.249077 13.764518 1808.45
+    fix 0@C3 46.248969 13.764749 1801.38
+    fix 0@JCC 46.253118 13.760979 1853.34
+    fix 0@PLAT1 46.253118 13.760979 1853.34
+    fix 0@PLAT2 46.253482 13.760953 1854.36
+    fix 0@PLAT3 46.253474 13.760459 1859.91
+    fix 0@B91 46.253606 13.759692 1857.59
+    fix 0@B93 46.253542 13.759445 1852.42
+    fix 0@B10 46.253198 13.759359 1845.48
+    fix 0@N1 46.253261 13.758608 1842.22
+    fix 0@PLAT4 46.252861 13.758422 1834.67
+    fix 0@PLAT5 46.252390 13.758705 1846.90
+    fix 0@ABSEIL_START 46.252107 13.758242 1849.32
+    fix 0@LP17 46.247541 13.764362 1758.75
+    fix 0@LP18 46.247490 13.764374 1754.82
+    fix 0@LP19 46.247590 13.764447 1757.46
+    fix 0@LP20 46.247496 13.765380 1747.93
+    fix 0@LP21 46.247355 13.764041 1766.09
+    fix 0@LP22 46.247771 13.764504 1758.23
+    fix 0@LP23 46.247971 13.764461 1765.95
+    fix 0@LP24 46.248339 13.764360 1773.97
+    fix 0@LP25 46.247795 13.764833 1764.00
+    fix 0@LP26 46.247800 13.764830 1764.00
+    fix 0@LP27 46.247070 13.766081 1718.24
+    fix 0@LP28 46.247707 13.764462 1759.69
+    fix 0@LP29 46.247608 13.764557 1759.22
+    fix 0@LP30 46.247511 13.764545 1757.26
+    fix 0@LP31 46.247512 13.764625 1758.92
+    fix 0@LP32 46.247436 13.764617 1758.38
+    fix 0@LP33 46.247316 13.764724 1754.02
+    fix 0@LP34 46.247220 13.764806 1752.44
+    fix 0@LP35 46.248420 13.764634 1772.42
+    fix 0@LP36 46.247153 13.765243 1746.97
+    fix 0@LP37 46.247856 13.763925 1762.00
+
+    # other noteworthy locations 
+    fix 0@amphitheatre 46.249812 13.764840 1822.73
+    fix 0@old_path_start 46.251653 13.763880 1869.22
+    fix 0@whale_bone_view 46.251692 13.763997 1865.72
+    fix 0@abseil_watch_point 46.250924 13.758651 1856.01
+    fix 0@bivi 46.251529 13.762432 1859.19
+    fix 0@dexter_the_tree 46.251389 13.762704 1868.24
+    fix 0@pueblo_old_bivi 46.251935 13.764365 1843.58
+    fix 0@valley_viewpoint 46.251064 13.764761 1864.28
+    fix 0@sunset_spot 46.251002 13.761642 1869.23
+    fix 0@lp_xmas_tree 46.247711 13.764535 1763.26
+
+	endcentreline
+
+endsurvey
