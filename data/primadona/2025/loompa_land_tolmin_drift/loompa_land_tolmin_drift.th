@@ -5,11 +5,11 @@ survey loompa_land_tolmin_drift -title "loompa land tolmin drift"
   input "loompa_land_tolmin_drift-1p.th2"
   input "loompa_land_tolmin_drift-1s.th2"
 
-  map m1p -projection plan
+  map m-all-p -projection plan
     loompa_land_tolmin_drift-1p
   endmap
 
-  map m1s -projection extended
+  map m-all-e -projection extended
     loompa_land_tolmin_drift-1s
   endmap
 
