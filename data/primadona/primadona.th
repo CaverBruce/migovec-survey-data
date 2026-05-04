@@ -382,8 +382,10 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join sweet_baby_jesus-1e@sweet_baby_jesus alabaster-1e@alabaster
 	join holy_moley-1e@holy_moley alabaster-1e@alabaster
 	join purgatory-1e@purgatory alabaster-1e@alabaster
-	join purgatory-1e@purgatory bath-1s@bath
-	join bath-1s@bath canticle_for_migovec-1e@canticle_for_migovec
+	#join purgatory-1e@purgatory bath-1s@bath # Replaced with 2x line joins
+	join purg_L1@purgatory:end bath_L1@bath:0
+	join purg_L2@purgatory:0 bath_L2@bath:end
+	join bath-3s@bath canticle_for_migovec-1e@canticle_for_migovec
 	#join holy_moley-1e@holy_moley sweet_baby_jesus-1e@sweet_baby_jesus #Replaced with 4x line joins
 	join sbj_L1@sweet_baby_jesus:end holy_moley_L4@holy_moley:0
 	join sbj_L2@sweet_baby_jesus:0 holy_moley_L3@holy_moley:end
@@ -523,8 +525,17 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join lachrymosa-1p@lachrymosa artemis-1p@artemis
 	join s1_l1@forget_me_not s1_l5@the_stile
 	join s1_l2@forget_me_not s1_l6@the_stile
+	join purg_L3@purgatory:0 octarine_L1@octarine:end #Elevation
+	join purg_L2@purgatory:end octarine_L2@octarine:0 #Elevation
+	join octarine-3e@octarine octarine_core-1s@octarine_core 
 	join octarine_core-1p@octarine_core bath-2p@bath
 	join death_star-2p@death_star octarine_core-1p@octarine_core
+	join bath_L3@bath:0 oct_core_L1@octarine_core:end #Elevation
+	join bath_L4@bath:end oct_core_L2@octarine_core:0 #Elevation
+	join oct_core_L3@octarine_core:0 death_star_L1@death_star:end #Elevation
+	join oct_core_L2@octarine_core:end death_star_L2@death_star:0 #Elevation
+	join canticle_L1@canticle_for_migovec:0 death_star_L3@death_star:end #Elevation
+	join canticle_L2@canticle_for_migovec:end death_star_L4@death_star:0 #Elevation
 	join s1_l3@octarine s1_l3@purgatory
 	join s1_l4@octarine s1_l4@purgatory
 	join polnoletna-2p@polnoletna ma_je_vlazna-1p@ma_je_vlazna

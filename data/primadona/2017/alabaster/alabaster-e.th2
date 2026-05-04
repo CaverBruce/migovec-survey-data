@@ -48,7 +48,7 @@ line wall
   230.3178 1057.2177
 endline
 
-point 1125.2401 458.7396 label -align r -text Alabaster
+point 1125.2401 458.7396 label -align r -attr level 2 -text Alabaster
 
 line wall
   656.2179 1019.6075
