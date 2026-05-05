@@ -23,11 +23,11 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 
 	join ttt-1p@ttt prima2p_5@prima2
 	join zima00p_1@zima00 ttt-6p@ttt
-	join s1_l1@prima2:0 s7_l4@prima1:end
-	join s1_l1@prima2:end s7_l3@prima1:end
+	# join s1_l1@prima2:0 s7_l4@prima1:end
+	# join s1_l1@prima2:end s7_l3@prima1:end
 	join ttt-1e@ttt zima00-3e@zima00
 
-	join prima1-2e@prima1 prima2-2e@prima2
+	# join prima1-2e@prima1 prima2-2e@prima2
 
 	###______________2001_____________ ###
 
@@ -49,7 +49,6 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join s1_l1@risanke:end s7_l1@prima1:0
 	join s1_l2@risanke:0 s7_l2@prima1:end
 	join risa2p_1@risa2 risanke-1p@risanke
-	join risa2p_3@risa2 pov-1p@pov
 	join s4_l1@pov s4_l1@ttt
 	join s4_l2@pov s4_l2@ttt
 	#join s1_l1@galerija:0 s3_l1@risa2:end
@@ -57,7 +56,6 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 
 	join s3_l1@drugi:0 s2_l1@prima1:end
 	join s3_l2@drugi:end s2_l2@prima1:0
-	join pov-1e@pov risa2-1e@risa2
 
 	join galerija-2e@galerija galerija-1e@galerija
 	join drugi-2e@drugi prima1-1e@prima1
@@ -81,8 +79,8 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	#join spodnjip_1@spodnji zima00p_6@zima00
 	join spodnjip_3@spodnji milanovap_1@milanova
 
-	join kvg_L1@galerija:end smer0_L3@smer0:0
-	join kvg_L5@galerija:0 smer0_L5@smer0:end
+	join kvg_L1@galerija:0 smer0_L3@smer0:0
+	join kvg_L5@galerija:end smer0_L5@smer0:end
 
 	###______________2004_____________ ###
 	input "./2004/popotresni/popotresni.th"
@@ -161,8 +159,6 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join s1_l2@the_stile:end s1_l5@smer0:0
 	join s1_l4@the_stile:end s4_l3@galerija:0
 	join s1_l3@the_stile:0 s4_l1@galerija:end
-	join s2_l1@quantum_state:end s4_l5@galerija:0
-	join s2_l2@quantum_state:0 s4_l4@galerija:end
 
 	join s4_l5@galerija s20_l1@karstaway
 	join s4_l6@galerija s20_l2@karstaway
@@ -202,9 +198,9 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join smer0_L1@smer0:end stile_L5@the_stile:0
 	join smer0_L5@smer0:0 stile_L1@the_stile:end
 	join the_stile-s1@the_stile cattlegrid-3e@cattlegrid
-	join kvg_L7@galerija:0 cattle_L2@cattlegrid:end
-	join kvg_L5@galerija:end stile_L1@the_stile:0
-	join kvg_L6@galerija:0 stile_L2@the_stile:end
+	join kvg_L7@galerija:end cattle_L2@cattlegrid:end
+	join kvg_L5@galerija:0 stile_L1@the_stile:0
+	join kvg_L6@galerija:end stile_L2@the_stile:end
 	join galerija-2e@galerija quantum_state-1e@quantum_state
 	join quantum_state-1e@quantum_state terminus-1e@terminus
 	join what_a_disappointment-1e@what_a_disappointment what_a_coincidence-1e@what_a_coincidence
@@ -308,7 +304,7 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join batmere-1e@batmere mandare_resurvey-1e@mandare_resurvey
 	join ttt-1e@ttt ttt-2e@ttt
 
-	###______________ 2018_____________ ###
+	# ###______________ 2018_____________ ###
 	input "./2018/pivnica_resurvey/pivnica_resurvey.th"
 	input "./2018/pivnica_2_resurvey/pivnica_2_resurvey.th"
 	input "./2018/lost_in_a_dream/lost_in_a_dream.th"
@@ -394,8 +390,8 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join sweet_baby_jesus-1e@sweet_baby_jesus hallelujah-1e@hallelujah
 	join pp_L4@plumbers_paradise:end halle_L1@hallelujah:0
 	join pp_L5@plumbers_paradise:0 halle_L2@hallelujah:end
-	join kvg_L1@galerija:0 kvg_L2@come_up_smiling:end
-	join kvg_L3@galerija:end kvg_L4@come_up_smiling:0
+	join kvg_L1@galerija:end kvg_L2@come_up_smiling:end
+	join kvg_L3@galerija:0 kvg_L4@come_up_smiling:0
 	join mouseleum-1s@mouseleum mouseleum_2-1e@mouseleum_2
 	join mouseleum_2-1e@mouseleum_2 chocolate_river-1e@chocolate_river
 	join moonraker-1s@moonraker mouseleum-1s@mouseleum
@@ -474,7 +470,7 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join moonraker-3s@moonraker the_aqueduct-1s@the_aqueduct
 
 
-	###______________ 2019_____________ ###
+	# ###______________ 2019_____________ ###
 
 	input "./2019/ad_aspera_per_aqua/ad_aspera_per_aqua.th"
 	input "./2019/artemis/artemis.th"
@@ -555,7 +551,7 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join polnoletna-1e@polnoletna milanova_e2@milanova
 	join power_grab-1p@power_grab electric_dreams-1p@electric_dreams
 	join power_grab-1e@power_grab electric_dreams-2e@electric_dreams
-	join forget_L1@forget_me_not:0 kvg_L6@galerija:end
+	join forget_L1@forget_me_not:0 kvg_L6@galerija:0
 	join forget_L2@forget_me_not:end cattle_L1@cattlegrid:0
 	join forget_L3@forget_me_not:end stile_L3@the_stile:0
 	join forget_L4@forget_me_not:0 stile_L4@the_stile:end
@@ -599,7 +595,7 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	equate 1@echo_falls 19@bin_bag_palace
 	equate 0@cantina_canyon 15@sisyphus_slope
 	equate 30@mudaholic 42@TTTr
-	equate 1@pov 25@mudaholic 
+	# equate 1@pov 25@mudaholic  This is causing nan errors, proabbly because I've extend ignored 27 in pov for the split
 	equate 0@cantina_canyon_2 8@sisyphus_slope
 	equate 33@the_deep_awakens 5@who_dies_first
 	equate 31@cantina_canyon_2 9@antares
