@@ -107,7 +107,7 @@ survey pov -title "Povezava"
 		24  25  3.3  291.5  21  #tocka 23 je PSS
 		extend left
 		25  26  4.85  317  0
-		#extend ignore 27 28
+		extend ignore 27
 		extend left
 		26  27  2.2  355  44  # zacetek puscice za mangiare
 		flags duplicate

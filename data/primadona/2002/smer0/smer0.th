@@ -67,7 +67,7 @@ survey smer0
 		units length meters
 		units compass clino degrees
 		data normal from to length compass clino
-		extend left
+		extend right
 		1  0  29.9  296  42
 		2  1  17  33  14
 		3  2  19.4  59  38
@@ -116,9 +116,7 @@ survey smer0
 		46  45  22.2  13  23
 		47  46  7.9  335  -15
 		48  47  13.7  287  9
-		extend left
 		49  48  8.4  314  34
-		extend left
 		50  49  12.3  296  -10
 		51  50  10.4  5  20
 		52  51  4.6  348  -48
@@ -126,7 +124,6 @@ survey smer0
 		54  53  6.4  50  12
 		55  54  6.8  323  -9
 		56  55  7.6  65  2
-		extend left
 		57  56  5.3  32  47 #point 57 end of rope in gallery second pitch
 
 
