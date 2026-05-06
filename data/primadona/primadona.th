@@ -718,6 +718,9 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	equate 16@loompa_land_tolmin_drift 0@2_loompa_2_land
 	equate 8@the_big_daddy 5@blues_and_twos
 
+	#Plan
+	join loompa_land-1p@loompa_land 2_loompa_2_land-1p@2_loompa_2_land
+
 	#ELEVATION
 	join smer0smer1_L1@smer0_and_salome_viados_resurvey:0 smer1_L1@smer1:end
 	join smer0smer1_L2@smer0_and_salome_viados_resurvey:end smer1_L2@smer1:0
@@ -729,4 +732,5 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join sparkle_L4@sparkle_highway:0 loosely_L2@loosely_horsey:end
 	join line2@blues_and_twos:end daddy_L2@the_big_daddy:0
 	join line3@blues_and_twos:0 daddy_L1@the_big_daddy:end
+	join loompa_land-1e@loompa_land 2_loompa_2_land-1e@2_loompa_2_land
 endsurvey

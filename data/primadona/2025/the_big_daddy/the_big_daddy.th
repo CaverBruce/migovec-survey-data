@@ -15,9 +15,13 @@ survey the_big_daddy -title "the big daddy"
 
   centerline
     date 2025.07.26 
-    team "bh"
-    team "lt"
-    team "jp"
+    team "Ben Honan" dog
+    team "Laura Temple" dog
+    team "James Perry" dog
+    explo-date 2025.07.26
+    explo-team "Ben Honan"
+    explo-team "Laura Temple"
+    explo-team "James Perry"
     units length meters
     units compass clino degrees
     data normal from to length compass clino

@@ -15,7 +15,14 @@ survey loompa_land_tolmin_drift -title "loompa land tolmin drift"
 
   centerline
     date 2025.07.22 
-    # team AE BR CH 
+    # team AE BR CH
+    team "Aurelia Eberhardt" dog
+    team "Ben Richards" dog
+    team "Chris Hayes" dog
+    explo-date 2025.07.22
+    explo-team "Aurelia Eberhardt"
+    explo-team "Ben Richards"
+    explo-team "Chris Hayes"
     units length meters
     units compass clino degrees
     data normal from to length compass clino

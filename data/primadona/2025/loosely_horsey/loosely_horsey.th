@@ -29,7 +29,11 @@ join loosely_horsey-1e loosely_horsey-2e
     date 2025.07.24 
     team "Thurston Blount"
     team "Julien Jean"
-    team "Ellie Pizey" 
+    team "Ellie Pizey"
+    explo-date 2025.07.24
+    explo-team "Thurston Blount"
+    explo-team "Julien Jean"
+    explo-team "Ellie Pizey"
     units length meters
     units compass clino degrees
     data normal from to length compass clino

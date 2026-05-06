@@ -3022,8 +3022,6 @@ scrap deveti_krog-2e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 2
 
 point 5.1302 968.9019 label -align tl -attr level 1 -scale l -text "Deveti Krog"
 
-point 3596.271 770.3482 label -align tl -attr level 2 -scale l -text Hades
-
 point 3226.2087 438.0821 water-flow -orientation 178.161
 
 point 3208.2087 438.0821 water-flow -orientation 178.161
