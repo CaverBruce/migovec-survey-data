@@ -1,7 +1,7 @@
 # 2025.07.25 created by TopoDroid v 6.2.44
 
 survey loompa_land_tolmin_drift -title "loompa land tolmin drift"
-
+# Continuation of "2 Loompa 2 Land" STN16 is STN0 of 2 loompa 2 land
   input "loompa_land_tolmin_drift-1p.th2"
   input "loompa_land_tolmin_drift-1s.th2"
 
