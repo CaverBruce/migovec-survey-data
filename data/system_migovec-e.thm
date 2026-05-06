@@ -6,3 +6,14 @@ map  m-all-e -projection extended -title "<lang:sl>SISTEM MIGOVEC<lang:en>SYSTEM
 	m-all-e@m2m16m18
 
 endmap
+
+map m-all-e-split-offset -projection extended
+	m-all-e@vrtnarija_vilinska
+	m-all-e@m2m16m18
+	m-all-e-split-offset-right@mona_tip.primadona_ubend_mona_tip
+
+	m-all-e-split-offset-left@mona_tip.primadona_ubend_mona_tip [-100 0 m] none
+	m-all-e@primadona.primadona_ubend_mona_tip [-100 0 m] none
+	m-all-e@belladonna.primadona_ubend_mona_tip [-100 0 m] none
+	m-all-e@ubend.primadona_ubend_mona_tip [-100 0 m] none
+endmap
