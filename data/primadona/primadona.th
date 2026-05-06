@@ -691,7 +691,7 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join bacchus_goldfish-1e@bacchus_goldfish klic_globin-1s@klic_globin
 	join line1@delta_blues:0 line1@blues_and_twos:end
 	join line2@delta_blues:end line2@blues_and_twos:0
-	join line4@delta_blues:0 line2@blues_and_twos:end
+	join line4@delta_blues:0 line3@blues_and_twos:end
 	join line3@delta_blues:end line1@blues_and_twos:0
 	join line6@delta_blues:0 sparkle_L2@sparkle_highway:end
 	join line4@delta_blues:end sparkle_L1@sparkle_highway:0
@@ -727,4 +727,6 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join smer1-2e@smer1 smer0_and_salome_viados_resurvey-2e@smer0_and_salome_viados_resurvey
 	join sparkle_L3@sparkle_highway:end loosely_L1@loosely_horsey:0
 	join sparkle_L4@sparkle_highway:0 loosely_L2@loosely_horsey:end
+	join line2@blues_and_twos:end daddy_L2@the_big_daddy:0
+	join line3@blues_and_twos:0 daddy_L1@the_big_daddy:end
 endsurvey

@@ -2262,7 +2262,7 @@ endscrap
 
 scrap loosely_horsey-1e -projection extended -scale [7.87402 1 m]
 
-point -292.8824 315.2081 label -align r -attr level 3 -scale xs -text "Loosely<br>Horsey"
+point -292.8824 315.2081 label -align r -attr level 2 -scale xs -text "Loosely<br>Horsey"
 
 line wall -id loosely_L2
   111.8432 186.9129
