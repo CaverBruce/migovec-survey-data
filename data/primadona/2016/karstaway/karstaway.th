@@ -60,7 +60,7 @@ survey karstaway -title "Karstaway"
 		#Page 3/4
 		24  25  5.50  136  -07
 		25  26  30.46  -   up
-		extend left
+		extend right
 		flags duplicate
 		26  27  2.22  352  +42
 		27  28  2.93  358  +32

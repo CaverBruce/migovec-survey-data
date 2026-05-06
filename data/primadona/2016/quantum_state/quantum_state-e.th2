@@ -1,11 +1,12 @@
 encoding  utf-8
-##XTHERION## xth_me_area_adjust 0 0 855.000000 1111.000000
+##XTHERION## xth_me_area_adjust 0.0 0.0 855.0 1111.0
 ##XTHERION## xth_me_area_zoom_to 100
 
 
-scrap quantum_state-1e -scale [326.0 -736.0 547.0 -735.0 0.0 0.0 35 0.0 m] -projection extended
 
-line wall 
+scrap quantum_state-1e -projection extended -scale [326.0 -736.0 547.0 -735.0 0.0 0.0 35 0.0 m]
+
+line wall
   1797.1367 40.0148
   1797.1367 40.0148 1779.4831 102.3909 1779.4831 111.8061
   1779.4831 121.2214 1791.2521 207.1356 1790.0752 231.8506
@@ -42,7 +43,7 @@ line wall -subtype blocks
   1616.4815 24.715 1797.7251 35.8957 1797.7251 35.8957
 endline
 
-line wall 
+line wall
   1663.5577 563.7383
   1663.5577 563.7383 1667.6769 552.5577 1666.5 541.3771
   1665.3231 530.1965 1661.2039 504.3046 1660.6155 496.0662
@@ -92,19 +93,34 @@ line wall
   281.2807 -150.0556 255.9772 -150.0556 255.9772 -150.0556
 endline
 
-point 1864.2722 696.7288 station -name 14
+point 1473.0843 689.0893 station -name 14
+
 point 1684.2055 559.6192 station -name 13
+
 point 1754.768 443.1054 station -name 12
+
 point 1587.6472 32.9534 station -name 11
+
 point 1514.679 34.1303 station -name 10
+
 point 1445.2415 -2.9423 station -name 9
+
 point 1318.724 -13.5344 station -name 8
+
 point 1239.8713 -58.8453 station -name 7
+
 point 1058.0392 -141.2288 station -name 6
+
 point 987.4248 -156.5286 station -name 5
+
 point 812.6541 -124.1637 station -name 4
+
 point 601.9878 -144.1711 station -name 3
+
 point 465.4666 -193.0127 station -name 2
+
 point 317.7648 -207.1356 station -name 1
+
 endscrap
+
 
