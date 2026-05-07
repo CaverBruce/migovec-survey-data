@@ -39,7 +39,7 @@ line wall
   1844.5395 114.2312 1848.7862 101.8178 1848.7862 101.8178
 endline
 
-point 855.4328 578.3974 label -align bl -attr level 2 -scale s -text "Loompa Land - Tolmin Drift"
+point 855.4328 578.3974 label -align bl -attr level 1 -text "Loompa Land - Tolmin Drift"
 
 line wall -subtype presumed
   -156.2997 -682.8379
