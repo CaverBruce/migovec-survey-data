@@ -305,6 +305,8 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join ttt-1e@ttt mandare_resurvey-1e@mandare_resurvey
 	join batmere-1e@batmere mandare_resurvey-1e@mandare_resurvey
 	join ttt-1e@ttt ttt-2e@ttt
+	join electric_dreams-2e@electric_dreams stranglehold-1e@stranglehold
+	join electric_dreams-2e@electric_dreams more_like_welding-2e@more_like_welding
 
 	# ###______________ 2018_____________ ###
 	input "./2018/pivnica_resurvey/pivnica_resurvey.th"
