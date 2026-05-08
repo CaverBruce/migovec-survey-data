@@ -6,6 +6,16 @@ encoding  utf-8
 
 scrap hallelujah-1e -projection extended -scale [327.0 -735.0 527.0 -734.0 0.0 0.0 14 0.0 m]
 
+line u:texture
+  806.1586 369.2867
+  761.0315 371.0575
+endline
+
+line u:texture
+  899.3606 385.8483
+  854.2335 387.6191
+endline
+
 line wall -subtype invisible
   189.9067 490.3616
   148.4408 482.5795
@@ -18,7 +28,7 @@ line wall -id halle_L1
   smooth off
 endline
 
-point 225.423 648.407 label -align t -attr level 2 -scale l -text Hallelujah
+point 733.9786 664.1761 label -align t -attr level 2 -scale l -text Hallelujah
 
 point 140.1832 458.5073 water-flow -orientation 102.545
 

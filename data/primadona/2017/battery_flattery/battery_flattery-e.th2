@@ -6,6 +6,8 @@ encoding  utf-8
 
 scrap battery_flattery-1e -projection extended -scale [7.87402 1 m]
 
+point 682.3077 725.5067 label -align l -attr level 3 -scale 0.5 -text "Battery<br><left>Flattery"
+
 line rock-border -close on
   523.3862 611.2842
   520.6013 613.0528

@@ -79,8 +79,8 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	#join spodnjip_1@spodnji zima00p_6@zima00
 	join spodnjip_3@spodnji milanovap_1@milanova
 
-	join kvg_L1@galerija:0 smer0_L3@smer0:0
-	join kvg_L5@galerija:end smer0_L5@smer0:end
+	join kvg_L1@galerija:0 smer0_L3@smer0:end
+	join kvg_L5@galerija:end smer0_L5@smer0:0
 
 	###______________2004_____________ ###
 	input "./2004/popotresni/popotresni.th"
@@ -195,12 +195,12 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join colony-1e@colony tight_and_scrotty-1e@tight_and_scrotty
 	join tight_and_scrotty-1e@tight_and_scrotty upside_down_chamber-1e@upside_down_chamber
 	#join smer0-0e@smer0 the_stile-s1@the_stile # Replaced with line joins
-	join smer0_L1@smer0:end stile_L5@the_stile:0
-	join smer0_L5@smer0:0 stile_L1@the_stile:end
+	join smer0_L1@smer0:0 stile_L5@the_stile:end
+	join smer0_L5@smer0:end stile_L1@the_stile:0
 	join the_stile-s1@the_stile cattlegrid-3e@cattlegrid
-	join kvg_L7@galerija:end cattle_L2@cattlegrid:end
-	join kvg_L5@galerija:0 stile_L1@the_stile:0
-	join kvg_L6@galerija:end stile_L2@the_stile:end
+	join kvg_L7@galerija:end cattle_L2@cattlegrid:0
+	join kvg_L5@galerija:0 stile_L1@the_stile:end
+	join kvg_L6@galerija:end stile_L2@the_stile:0
 	join galerija-2e@galerija quantum_state-1e@quantum_state
 	join quantum_state-1e@quantum_state terminus-1e@terminus
 	join what_a_disappointment-1e@what_a_disappointment what_a_coincidence-1e@what_a_coincidence
@@ -282,7 +282,9 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join electric_dreams-1p@electric_dreams more_like_welding-3p@more_like_welding
 	join TTTr-3p@TTTr zima00p_2@zima00
 	#join jack_of_hearts-2e@jack_of_hearts smer0-1e@smer0 #Replaced with join in 2025 to smer0_and_salome_viados_resurvey
-	join cattlegrid-2e@cattlegrid fenestrator-1e@fenestrator
+	#join cattlegrid-2e@cattlegrid fenestrator-1e@fenestrator #Replaced with line join
+	join cattle_L3@cattlegrid:end fenes_L3@fenestrator:0
+	join cattle_L4@cattlegrid:0 fenes_L4@fenestrator:end
 	#join plumbers_paradise-1e@plumbers_paradise fenestrator-1e@fenestrator # Replaced with line join
 	join fenes_L1@fenestrator:end pp_L1@plumbers_paradise:0
 	join fenes_L2@fenestrator:0 pp_L3@plumbers_paradise:end
@@ -390,8 +392,8 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join sweet_baby_jesus-1e@sweet_baby_jesus hallelujah-1e@hallelujah
 	join pp_L4@plumbers_paradise:end halle_L1@hallelujah:0
 	join pp_L5@plumbers_paradise:0 halle_L2@hallelujah:end
-	join kvg_L1@galerija:end kvg_L2@come_up_smiling:end
-	join kvg_L3@galerija:0 kvg_L4@come_up_smiling:0
+	join kvg_L1@galerija:end kvg_L2@come_up_smiling:0
+	join kvg_L3@galerija:0 kvg_L4@come_up_smiling:end
 	join mouseleum-1s@mouseleum mouseleum_2-1e@mouseleum_2
 	join mouseleum_2-1e@mouseleum_2 chocolate_river-1e@chocolate_river
 	join moonraker-1s@moonraker mouseleum-1s@mouseleum
@@ -551,10 +553,10 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join polnoletna-1e@polnoletna milanova_e2@milanova
 	join power_grab-1p@power_grab electric_dreams-1p@electric_dreams
 	join power_grab-1e@power_grab electric_dreams-2e@electric_dreams
-	join forget_L1@forget_me_not:0 kvg_L6@galerija:0
-	join forget_L2@forget_me_not:end cattle_L1@cattlegrid:0
-	join forget_L3@forget_me_not:end stile_L3@the_stile:0
-	join forget_L4@forget_me_not:0 stile_L4@the_stile:end
+	join forget_L1@forget_me_not:end kvg_L6@galerija:0
+	join forget_L2@forget_me_not:0 cattle_L1@cattlegrid:end
+	join forget_L3@forget_me_not:0 stile_L3@the_stile:end
+	join forget_L4@forget_me_not:end stile_L4@the_stile:0
 	
 
 	###______________ 2021_____________ ###
@@ -725,11 +727,11 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join loompa_land-1p@loompa_land 2_loompa_2_land-1p@2_loompa_2_land
 
 	#ELEVATION
-	join smer0smer1_L1@smer0_and_salome_viados_resurvey:0 smer1_L1@smer1:end
-	join smer0smer1_L2@smer0_and_salome_viados_resurvey:end smer1_L2@smer1:0
+	join smer0smer1_L1@smer0_and_salome_viados_resurvey:end smer1_L1@smer1:0
+	join smer0smer1_L2@smer0_and_salome_viados_resurvey:0 smer1_L2@smer1:end
 	join jack_of_hearts-2e@jack_of_hearts smer0_and_salome_viados_resurvey-3e@smer0_and_salome_viados_resurvey
-	join smer0_L1@smer0:0 smer0_L2@smer0_and_salome_viados_resurvey:end
-	join smer0_L3@smer0:end smer0_L4@smer0_and_salome_viados_resurvey:0
+	join smer0_L1@smer0:end smer0_L2@smer0_and_salome_viados_resurvey:0
+	join smer0_L3@smer0:0 smer0_L4@smer0_and_salome_viados_resurvey:end
 	join smer1-2e@smer1 smer0_and_salome_viados_resurvey-2e@smer0_and_salome_viados_resurvey
 	join sparkle_L3@sparkle_highway:end loosely_L1@loosely_horsey:0
 	join sparkle_L4@sparkle_highway:0 loosely_L2@loosely_horsey:end

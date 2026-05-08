@@ -6,6 +6,8 @@ encoding  utf-8
 
 scrap karstaway-1e -projection extended -scale [0.0 0.0 1024.0 700.2833165491776 0.0 0.0 238.32 162.98]
 
+point 652.7209 477.6068 label -align r -attr level 2 -text Karstaway
+
 point 862.9302 441.2014 station -name 25
 
 point 839.513 444.0802 station -name 24

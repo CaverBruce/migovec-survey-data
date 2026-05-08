@@ -5873,9 +5873,9 @@ endscrap
 
 scrap smer0_and_salome_viados_resurvey-6e -projection extended -scale [9842.53 250 m]
 
-point 740.7617 2546.7939 label -align l -attr level 5 -scale xs -text "Bolt climb up aven to ledge<br>Ongoing bolt traverse to window"
+point 764.2714 2550.506 label -align l -attr level 5 -scale 0.375 -text "Bolt climb up aven to ledge<br>Ongoing bolt traverse to window"
 
-point 1021.9741 2165.3448 label -align bl -attr level 5 -scale xs -text "Sandy phreatic in wall<br>leads to wriggle and two<br>pitches below undescended"
+point 1152.2189 2185.2812 label -align bl -attr level 5 -scale 0.375 -text "Sandy phreatic in wall<br>leads to wriggle and two<br>pitches below undescended"
 
 point 1401.8537 2643.5388 label -align l -attr level 1 -scale l -text "Salome Viados"
 
@@ -6421,9 +6421,9 @@ endline
 
 point 1965.8906 1980.1969 station -name 48
 
-point 1780.8871 2138.4205 label -align l -attr level 5 -scale xs -text "Many leads above"
+point 1910.1904 2127.5935 label -align l -attr level 5 -scale 0.375 -text "Many leads above"
 
-point 1825.1844 1738.6618 label -align l -attr level 5 -scale xs -text "Undescended pitch<br>and window"
+point 1825.1844 1738.6618 label -align l -attr level 5 -scale 0.375 -text "Undescended pitch<br>and window"
 
 point 1452.8017 2035.4511 label -align l -attr level 1 -scale l -text "Smer 0"
 
@@ -6835,7 +6835,7 @@ endscrap
 
 scrap smer0_and_salome_viados_resurvey-4e -projection extended -scale [9842.53 250 m]
 
-point 1637.9629 1922.7512 water-flow -orientation 182.114 -scale xs
+point 1637.8082 1913.935 water-flow -orientation 182.114 -scale xs
 
 point 1058.8618 1675.8817 water-flow -orientation 219.732
 
@@ -6961,17 +6961,17 @@ line wall
   smooth off
 endline
 
-point 1393.8334 1772.8417 continuation -scale xs
+point 1394.7083 1775.4665 continuation -scale xs
 
-point 1393.292 1760.9306 continuation -scale xs
+point 1395.4794 1760.2744 continuation -scale xs
 
-point 1476.1436 1806.2766 continuation -scale xs
+point 1476.6904 1805.1829 continuation -scale xs
 
-point 1477.7612 1817.7949 continuation -scale xs
+point 1479.4017 1819.8729 continuation -scale xs
 
 point 1500.4665 1863.3055 continuation -scale s
 
-point 1366.921 1767.0381 water-flow -orientation 156.649 -scale xs
+point 1359.484 1765.9444 water-flow -orientation 156.649 -scale xs
 
 line rock-border -close on
   1348.8268 1794.7854
@@ -7456,7 +7456,7 @@ line u:texture
   1108.8502 1724.6358 1045.0238 1726.8808 1044.2505 1727.0355
 endline
 
-point 632.5513 1864.603 label -align l -attr level 5 -scale 0.25 -text "Rope presumed<br>up to Smer 1"
+point 728.3573 1856.5305 label -align l -attr level 5 -scale 0.25 -text "Rope presumed<br>up to Smer 1"
 
 point 427.2445 1715.1302 station -name 7
 
@@ -7474,7 +7474,7 @@ point 747.0745 1758.6001 station -name 13
 
 point 846.0146 1710.3302 station -name 14
 
-point 614.5699 1736.1033 continuation
+point 614.5699 1728.8117 continuation
 
 line rock-border -close on
   531.6698 1756.4503
@@ -7575,10 +7575,10 @@ line rock-border -close on
 endline
 
 line rock-border -close on
-  695.5161 1776.5535
-  693.9107 1773.9517
-  697.2761 1773.7089
-  695.5161 1776.5535
+  696.7535 1777.1722
+  695.1481 1774.5703
+  698.5134 1774.3276
+  696.7535 1777.1722
 endline
 
 line rock-border -close on
@@ -7592,12 +7592,12 @@ line rock-border -close on
 endline
 
 line rock-border -close on
-  697.9172 1774.1642
-  695.096 1772.2182
-  692.1615 1769.8005
-  690.5933 1766.9148
-  694.5322 1766.0358
-  697.9172 1774.1642
+  698.7679 1773.2362
+  695.9467 1771.2902
+  693.0122 1768.8725
+  691.444 1765.9868
+  695.3829 1765.1078
+  698.7679 1773.2362
 endline
 
 line rock-border -close on
@@ -8080,7 +8080,7 @@ line rock-border -close on
   21.8123 1623.7551
 endline
 
-point 21.7192 1571.3261 continuation -scale small
+point 22.8129 1570.8886 continuation -scale small
 
 line rock-border -close on
   14.3806 1616.3459

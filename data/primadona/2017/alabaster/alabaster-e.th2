@@ -6,9 +6,7 @@ encoding  utf-8
 
 scrap alabaster-1e -projection extended -scale [328.0 -734.0 528.0 -734.0 0.0 0.0 14 0.0 m]
 
-point 56.4651 508.0286 label -align tl -attr level 4 -text Adequately
-
-point 56.4651 498.0286 label -align bl -attr level 4 -text Hammered
+point 45.8656 277.667 label -align tl -attr level 4 -scale xs -text "Adequately<br>Hammered"
 
 line wall
   106.9095 754.5733
