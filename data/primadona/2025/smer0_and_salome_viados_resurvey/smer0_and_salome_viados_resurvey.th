@@ -16,6 +16,7 @@ survey smer0_and_salome_viados_resurvey -title "Smer 0 Resurvey"
   
   map m-all-e -projection extended
     smer0_and_salome_viados_resurvey-6e
+    break
     smer0_and_salome_viados_resurvey-5e
     smer0_and_salome_viados_resurvey-2e
     smer0_and_salome_viados_resurvey-1e

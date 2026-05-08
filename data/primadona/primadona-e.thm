@@ -163,12 +163,12 @@ endmap
 map m-death_star_branch-e -projection extended 
 	m-all-e@death_star
 	m-all-e@the_expo_strikes_back
-	m-all-e@cantina_canyon
-	m-all-e@cantina_canyon_2
-	m-all-e@antares
 	m-all-e@who_dies_first_resurvey
 	m-all-e@the_deep_awakens
 	m-all-e@sisyphus_slope
+	m-all-e@cantina_canyon
+	m-all-e@cantina_canyon_2
+	m-all-e@antares
 	m-all-e@delta_blues
 	m-all-e@blues_and_twos
 	m-all-e@the_big_daddy
