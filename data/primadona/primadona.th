@@ -177,10 +177,10 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 
 	join karstaway-1e@karstaway mighty_fine_indeed-1e@mfi
 	join mighty_fine_indeed-1e@mfi hall_of_the_mountain_king-2e@hall_of_the_mountain_king
-	join hotmk_l1@hall_of_the_mountain_king:0 col_l5@colony:end 
-	join hotmk_l2@hall_of_the_mountain_king:end col_l2@colony:0
-	join hotmk_l1@hall_of_the_mountain_king:end wac_l2@what_a_coincidence:0
-	join hotmk_l3@hall_of_the_mountain_king:0 wac_l1@what_a_coincidence:end
+	join hotmk_l1@hall_of_the_mountain_king:0 wac_l2@what_a_coincidence:end #Elevation
+	join hotmk_l2@hall_of_the_mountain_king:end wac_l1@what_a_coincidence:0 #Elevation
+	join hotmk_l3@hall_of_the_mountain_king:0 col_l5@colony:end  #Elevation
+	join hotmk_l1@hall_of_the_mountain_king:end col_l2@colony:0 #Elevation
 	join e1_l1@TTTr e2_l1@zima00
 	join e1_l2@TTTr e2_l2@zima00
 	join e1_l3@TTTr e2_l3@zima00
@@ -189,6 +189,8 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join e1_l6@TTTr e1_l6@buckwheat
 	join e1_l7@TTTr e1_l7@what_a_coincidence
 	join e1_l8@TTTr e1_l8@what_a_coincidence
+	join e1_l7_buck@buckwheat:end e1_l2@what_a_coincidence:0
+	join e1_l5@buckwheat:0 e1_l1@what_a_coincidence:end
 
 	join colony-1e@colony upside_down_chamber-1e@upside_down_chamber
 	join upside_down_chamber-1e@upside_down_chamber gamblers_ruin-1e@gamblers_ruin
@@ -305,8 +307,13 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join ttt-1e@ttt mandare_resurvey-1e@mandare_resurvey
 	join batmere-1e@batmere mandare_resurvey-1e@mandare_resurvey
 	join ttt-1e@ttt ttt-2e@ttt
+	join galerija-2e@galerija electric_dreams-1e@electric_dreams
 	join electric_dreams-2e@electric_dreams stranglehold-1e@stranglehold
 	join electric_dreams-2e@electric_dreams more_like_welding-2e@more_like_welding
+	join more_like_welding-1e@more_like_welding mighty_fine_indeed-1e@mfi
+	join the_atrium-1e@the_atrium more_like_welding-2e@more_like_welding
+	join the_atrium-1e@the_atrium hall_of_the_mountain_king-1e@hall_of_the_mountain_king
+	join stranglehold-2e@stranglehold the_atrium-1e@the_atrium
 
 	# ###______________ 2018_____________ ###
 	input "./2018/pivnica_resurvey/pivnica_resurvey.th"
@@ -555,6 +562,7 @@ survey primadona -title "Primadona" -entrance 35@prima1 -attr cadastral_n 8282
 	join polnoletna-1e@polnoletna milanova_e2@milanova
 	join power_grab-1p@power_grab electric_dreams-1p@electric_dreams
 	join power_grab-1e@power_grab electric_dreams-2e@electric_dreams
+	join power_grab-2e@power_grab electric_dreams-2e@electric_dreams
 	join forget_L1@forget_me_not:end kvg_L6@galerija:0
 	join forget_L2@forget_me_not:0 cattle_L1@cattlegrid:end
 	join forget_L3@forget_me_not:0 stile_L3@the_stile:end

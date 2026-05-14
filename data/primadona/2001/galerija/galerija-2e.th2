@@ -6,9 +6,9 @@ encoding  utf-8
 
 scrap galerija-2e -projection extended -scale [1382.0 -3962.0 2948.0 -3976.0 0.0 0.0 100 0.0 m]
 
-point 2681.7352 676.0033 label -align bl -attr level 5 -scale 0.25 -text "Unsurveyed - Climb up<br>through boulders afrer<br>Quantum State<br>to access upper level"
+point 2681.7352 676.0033 label -align bl -attr level 5 -scale 0.25 -text "Unsurveyed - Climb up<br>through boulders after<br>Quantum State<br>to access upper level"
 
-point 2024.6336 987.4155 label -align bl -attr level 5 -scale 0.25 -text "Unsurveyed - Squeeze through<br>hole at top of slope,<br>rift series leads to<br>top of Karstaway"
+point 2169.6144 989.1836 label -align bl -attr level 5 -scale 0.25 -text "Unsurveyed - Squeeze through<br>hole, rift series leads to top of Karstaway"
 
 line rock-border -close on
   2124.3222 777.1784
@@ -124,8 +124,6 @@ point 2843.923 1069.3289 continuation -scale s
 
 point 2793.6651 1001.9046 water-flow -orientation 182.114 -scale s
 
-point 1740.945 669.6254 u:connection_marker -id electricdreams -align tr -attr code 13 -attr text "to Electric Dreams"
-
 point 3005.6806 894.4249 label -align tr -attr level 1 -text Galerija
 
 line wall
@@ -149,12 +147,11 @@ line wall
 endline
 
 line wall
-  1866.0872 395.0
-  1865.0874 401.0 1868.0873 481.0 1868.0873 481.0
-  1868.0873 481.0 1865.0874 542.0 1868.0873 557.0
-  1871.0873 572.0 1890.0874 558.0 1894.0872 558.0
-  1898.0873 558.0 1897.0872 571.0 1898.0873 582.0
-  1899.0873 593.0 1914.0873 586.0 1931.0872 591.0
+  1897.4689 404.7243
+  1896.469 410.7243 1884.6615 481.0 1884.6615 481.0
+  1884.6615 481.0 1880.958 542.158 1884.6615 557.0
+  1887.1804 567.0947 1899.873 560.3932 1898.0873 582.0
+  1897.1775 593.0078 1914.0873 586.0 1931.0872 591.0
   1948.0872 596.0 1953.0873 599.0 1956.0873 608.0
   1959.0873 617.0 1957.0873 621.0 1961.0874 626.0
   1965.0873 631.0 1991.0873 636.0 1999.0873 636.0
@@ -300,8 +297,8 @@ line wall -subtype presumed
 endline
 
 line wall -subtype presumed
-  2048.1548 730.0567
-  2060.5369 734.827 2105.4071 755.9744 2112.7914 756.6632
+  2057.6581 744.6432
+  2070.0402 749.4135 2105.4071 755.9744 2112.7914 756.6632
   2120.3868 757.3716 2127.7875 759.5229 2127.7875 759.5229
   smooth off
   2163.0218 777.4377
@@ -341,12 +338,12 @@ line wall
 endline
 
 line wall
-  1750.0873 642.0
-  1762.0872 640.0 1770.0873 630.0 1771.0872 627.0
-  1772.0873 624.0 1767.0872 612.0 1761.0873 604.0
-  1755.0874 596.0 1763.0873 570.0 1762.0872 561.0
-  1761.0873 552.0 1759.0872 529.0 1762.0872 507.0
-  1765.0872 485.0 1761.0873 470.0 1751.0873 426.0
+  1760.9166 654.3764
+  1760.7611 646.1882 1770.0873 630.0 1771.0872 627.0
+  1772.0873 624.0 1789.9035 616.6883 1783.9036 608.6883
+  1777.9037 600.6883 1786.8413 588.4405 1785.8412 579.4405
+  1784.8412 570.4405 1781.8767 529.0 1784.8767 507.0
+  1787.8767 485.0 1780.1196 459.6127 1786.2532 420.0328
   smooth off
 endline
 
@@ -396,7 +393,7 @@ line rock-border
   1832.0874 658.0
   1839.0873 636.0
   1801.0874 633.0
-  1792.0874 652.0
+  1795.513 654.9836
 endline
 
 line rock-border -close on

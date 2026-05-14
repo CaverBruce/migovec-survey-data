@@ -6,7 +6,14 @@ encoding  utf-8
 
 scrap colony-1e -projection extended -scale [0 0 100 0 0 0 1 0 m]
 
-line wall -id col_l5 -subtype blocks
+line wall -id col_l5
+  2632.8182 3278.7972
+  2635.4637 3284.088 2616.6365 3332.8947 2623.9112 3342.1535
+  2631.1861 3351.4124 2635.4945 3387.3131 2635.4945 3387.3131
+  smooth off
+endline
+
+line wall -subtype blocks
   1058.7419 3099.5325
   1092.7989 3155.4597 1146.9844 3198.4564 1213.4739 3204.6296
   smooth off
@@ -22,13 +29,11 @@ line wall -id col_l5 -subtype blocks
   smooth off
   2488.926 3212.2183 2568.4569 3231.2324 2632.3639 3276.8212
   smooth off
-  2669.4336 3317.5296 2608.9938 3320.092 2638.2224 3342.886
-  smooth off
 endline
 
-point 1148.9216 3557.3306 label -align t -attr level 2 -scale l -text Colony
+point 2129.0996 2462.1306 label -align t -attr level 2 -scale l -text Colony
 
-point 1023.9343 1699.3464 label -align r -attr level 3 -scale l -text "Blue Danube"
+point 1071.5512 2037.9555 label -align r -attr level 3 -scale 0.375 -text "<it>Blue Danube"
 
 line wall -id col_l4 -subtype blocks
   0.0 1178.0
@@ -70,7 +75,7 @@ line wall:blocks -id col_l1
 endline
 
 line wall -id col_l2
-  2487.7991 3519.9944
+  2441.0349 3478.8419
   2408.4089 3461.1864
   2408.4089 3461.1864 2319.4756 3456.3792 2283.4216 3463.59
   2247.3676 3470.8008 2156.0307 3521.2765 2156.0307 3521.2765

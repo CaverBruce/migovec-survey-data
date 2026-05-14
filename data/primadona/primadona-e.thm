@@ -23,11 +23,11 @@ map m-karstaway_branch-e -projection extended
 	m-all-e@quantum_state
 	m-all-e@terminus
 	m-all-e@hall_of_the_mountain_king
-	m-all-e@what_a_coincidence
 	m-all-e@what_a_disappointment
 	m-all-e@mfi
 	m-all-e@colony
 	m-all-e@upside_down_chamber
+	m-all-e@what_a_coincidence
 	m-all-e@gamblers_ruin
 	m-all-e@tight_and_scrotty
 endmap
@@ -185,13 +185,13 @@ map m-death_star_branch-e -projection extended
 endmap
 
 map  m-electric_branch-e -projection extended
-	m-all-e@dysentery
 	m-all-e@electric_dreams
 	m-all-e@odessey
 	m-all-e@power_grab
 	m-all-e@more_like_welding
 	m-all-e@stranglehold
 	m-all-e@the_atrium
+	m-all-e@dysentery
 endmap
 
 centreline
