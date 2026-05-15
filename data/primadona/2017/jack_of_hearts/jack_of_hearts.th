@@ -61,41 +61,41 @@ survey jack_of_hearts -title "Jack of Hearts streamway"
 		1	2	12.60	-	UP
 		extend left
 		3	2	4.42	132	+09
-		extend left
+		extend right
 		5	SUMP	5.60	201	-14
-		extend right
+		extend left
 		5	6	2.80	335	-06
-		extend left
+		extend right
 		7	6	1.91	204	+03
-		extend left
+		extend right
 		8	7	8.66	158	-13
-		extend left
+		extend right
 		9	8	3.40	179	-19
-		extend right
+		extend left
 		9	10	8.99	328	-03
-		extend left
-		11	10	3.08	162	-60
-		extend left
-		12	11	3.63	124	+04
 		extend right
+		11	10	3.08	162	-60
+		extend right
+		12	11	3.63	124	+04
+		extend left
 		12	13	7.61	342	+12
 		
 		#Page 2/3
-		extend right
-		13	14	3.04	340	+12
 		extend left
+		13	14	3.04	340	+12
+		extend right
 		15	14	6.59	168	-05
 		extend vertical
 		15	16	4.45	-	UP
-		extend right
-		16	17	1.68	307	+41
-		extend right
-		17	18	6.76	023	+47
-		extend right
-		18	19	4.27	060	+08
 		extend left
-		20	19	3.68	159	-36
+		16	17	1.68	307	+41
+		extend left
+		17	18	6.76	023	+47
+		extend left
+		18	19	4.27	060	+08
 		extend right
+		20	19	3.68	159	-36
+		extend left
 		20	21	3.80	020	-10
 		extend vertical
 		21	22	6.35	-	UP

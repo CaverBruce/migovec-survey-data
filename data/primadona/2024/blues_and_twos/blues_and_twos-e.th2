@@ -601,7 +601,7 @@ endscrap
 
 scrap blues_and_twos-1e -projection extended -scale [0.0 0.0 500 1000.0 -250 -500 250 500]
 
-point -61.6355 469.0758 label -align t -attr level 3 -scale xs -text "Blues and Twos"
+point -133.2039 471.4459 label -align t -attr level 3 -scale xs -text "Blues and Twos"
 
 line rock-border -close on
   33.3153 402.1774

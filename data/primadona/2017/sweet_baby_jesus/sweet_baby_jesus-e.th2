@@ -32,7 +32,7 @@ point 1027.4411 838.7638 u:connection_marker -align tr -attr text "Hallelujah ca
 
 point 1539.0745 1071.9116 camp -align tr
 
-point 2257.965 654.058 label -align tr -attr level 2 -text "Sweet Baby Jesus"
+point 2257.965 654.058 label -align tr -attr level 2 -scale xs -text "Sweet Baby Jesus"
 
 line wall -subtype invisible
   1953.7342 461.5307

@@ -6,6 +6,8 @@ encoding  utf-8
 
 scrap upotyn-1e -projection extended -scale [327.0 -735.0 515.0 -733.0 0.0 0.0 20 0.0 m]
 
+point 454.5803 609.429 label -align l -attr level 4 -scale xs -text "Union Passage<br><centre>Of The Year<br><centre>Nominee"
+
 line wall -id upotyn_L2
   540.2002 794.1178
   540.2002 794.1178 577.567 795.2948 582.5689 795.2948

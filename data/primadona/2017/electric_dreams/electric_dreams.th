@@ -4,8 +4,9 @@ survey electric_dreams
 	input "electric_dreams-e.th2"
 	
 	map  m-all-e -projection extended
-		electric_dreams-1e
 		electric_dreams-2e
+		break
+		electric_dreams-1e
 	endmap
 	
 	map m-all-p -projection plan

@@ -82,7 +82,7 @@ line wall -id pp_L1
   smooth off
 endline
 
-point 282.1294 46.5431 label -align l -attr level 2 -scale 0.5 -text "Plumbers' Paradise"
+point 400.4601 41.1179 label -align l -attr level 2 -scale 0.5 -text "Plumbers' Paradise"
 
 line wall -subtype invisible
   212.2719 286.1543
